@@ -63,7 +63,6 @@ To create a production-ready build, run:
 npm run build
 ```
 
-The generated production files will be available in the `dist` directory.
 
 ## 👨‍💻 Author
 
